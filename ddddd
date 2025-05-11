@@ -1,4 +1,4 @@
-<script>
+.<script>
 let password = prompt("Введи пароль:");
 if (password !== "777732015") { 
     alert("Неверно!"); 
